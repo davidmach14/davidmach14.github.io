@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Poznámky celoživotního počítačového nadšence</title>
+    <title>Poznámky IT závisláka</title>
     <link href="https://david.machovi.info/feed.xml" rel="self" />
     <link href="https://david.machovi.info" />
-    <updated>2021-03-14T00:53:57+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>David Mach</name>
     </author>
     <id>https://david.machovi.info</id>
 
-    <entry>
-        <title>První krok</title>
-        <author>
-            <name>David Mach</name>
-        </author>
-        <link href="https://david.machovi.info/prvni-krok.html"/>
-        <id>https://david.machovi.info/prvni-krok.html</id>
-            <category term="smarthome"/>
-
-        <updated>2021-03-14T00:53:57+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>
-<p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>
-<p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
