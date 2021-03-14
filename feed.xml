@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Poznámky celoživotního počítačového nadšence</title>
-    <link href="http://david.machovi.info/feed.xml" rel="self" />
-    <link href="http://david.machovi.info" />
+    <link href="https://david.machovi.info/feed.xml" rel="self" />
+    <link href="https://david.machovi.info" />
     <updated>2021-03-14T00:53:57+01:00</updated>
     <author>
         <name>David Mach</name>
     </author>
-    <id>http://david.machovi.info</id>
+    <id>https://david.machovi.info</id>
 
     <entry>
         <title>První krok</title>
         <author>
             <name>David Mach</name>
         </author>
-        <link href="http://david.machovi.info/prvni-krok.html"/>
-        <id>http://david.machovi.info/prvni-krok.html</id>
+        <link href="https://david.machovi.info/prvni-krok.html"/>
+        <id>https://david.machovi.info/prvni-krok.html</id>
             <category term="smarthome"/>
 
         <updated>2021-03-14T00:53:57+01:00</updated>

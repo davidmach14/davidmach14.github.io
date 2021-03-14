@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Poznámky celoživotního počítačového nadšence",
     "description": "",
-    "home_page_url": "http://david.machovi.info",
-    "feed_url": "http://david.machovi.info/feed.json",
+    "home_page_url": "https://david.machovi.info",
+    "feed_url": "https://david.machovi.info/feed.json",
     "user_comment": "",
     "author": {
         "name": "David Mach"
     },
     "items": [
         {
-            "id": "http://david.machovi.info/prvni-krok.html",
-            "url": "http://david.machovi.info/prvni-krok.html",
+            "id": "https://david.machovi.info/prvni-krok.html",
+            "url": "https://david.machovi.info/prvni-krok.html",
             "title": "První krok",
             "summary": "Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček&hellip;",
             "content_html": "<p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>\n<p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>\n<p>Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. Šíleně žluťoučký koníček úpěl ďábelské ódy. </p>",
